@@ -1,0 +1,10 @@
+@font-face {
+    font-family: bold;
+    src: url(GothamBold.ttf);
+}
+
+
+@font-face {
+    font-family: light;
+    src: url(GothamLight.ttf);
+}
